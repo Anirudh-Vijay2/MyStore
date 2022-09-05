@@ -1,0 +1,10 @@
+.card{
+    margin: 30px;
+    word-spacing: 2px;
+    letter-spacing: 1.3px;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
